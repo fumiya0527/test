@@ -122,6 +122,3 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 
 class test extends StatelessWidgetß
-//aaaaaaaaaaaaaa
-
-power = power;
