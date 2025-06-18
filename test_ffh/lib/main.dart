@@ -122,5 +122,9 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 
 class test extends StatelessWidgetß
+<<<<<<< HEAD
 
-//ohayou
+//ohayouede
+=======
+//aaaaaaaaaaaaaa
+>>>>>>> 2b8702f3d787de2d07d30b49c262f430dc2db7cc
